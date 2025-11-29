@@ -1,16 +1,70 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mythreyee</h1>
+<h3 align="center">AI & Data Science Student | Java Full Stack Learner</h3>
 
-<!--
-**Mythreyee20/Mythreyee20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" width="350" height="260" src="https://i.pinimg.com/originals/26/90/b0/2690b0e712b3a8b4a5bc9aef12640add.gif" alt="Coding Girl GIF">
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 About Me  
+- 🎓 **3rd Year AI & Data Science Student**  
+- 💻 Learning **Java, Spring Boot, SQL & React**  
+- 🚀 Passionate about building **Full Stack + AI projects**  
+- 🌱 Always exploring **new tools & technologies**  
+- 🎯 Preparing for **Zoho MTS & Full Stack Developer roles**  
+
+---
+
+### 🏆 Achievements  
+- 🥇 **1st Rank, GDG On Campus – Study Jam Leaderboard (2024)**  
+- 🌟 Active contributor in developer communities  
+
+---
+
+### 🔧 Tech Stack  
+
+**Languages**  
+<p>
+  <img height="50" src="https://skillicons.dev/icons?i=java,python,js" />
+</p>
+
+**Frontend**  
+<p>
+  <img height="50" src="https://skillicons.dev/icons?i=html,css,react,bootstrap" />
+</p>
+
+**Backend & Database**  
+<p>
+  <img height="50" src="https://skillicons.dev/icons?i=spring,mysql,mongodb,nodejs" />
+</p>
+
+**Tools & Platforms**  
+<p>
+  <img height="50" src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mythreyee20&show_icons=true&theme=react&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mythreyee20&theme=react" />
+</p>
+
+---
+
+### 🌱 Activity Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mythreyee20&bg_color=0d1117&color=61dafb&line=ff69b4&point=ff69b4&area=true&hide_border=true" />
+</p>
+
+---
+
+### ✨ Connect With Me  
+<p>
+  <a href="https://github.com/Mythreyee20"><img height="40" src="https://skillicons.dev/icons?i=github"/></a>
+  <a href="https://www.linkedin.com/in/mythreyee20/"><img height="40" src="https://skillicons.dev/icons?i=linkedin"/></a>
+</p>
+
+---
+
+⭐ **If you like my work, consider giving a star to my repositories!**
