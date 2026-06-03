@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXBqbDZrYXA1Z3FydGpiN3ZjODY0Z2Zsa3BlMjV1aWg5bXNpZnprcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif"/>
 
-## 👩‍💻 About Me
+### 👩‍💻 About Me
 
 - 🎓 3rd Year Artificial Intelligence & Data Science Student
 - 💻 Learning Java, Spring Boot, SQL, React, Flask & Streamlit
@@ -13,7 +13,7 @@
 
 ---
 
-## 🏆 Achievements
+### 🏆 Achievements
 
 - 🥇 1st Rank – GDG On Campus Study Jam Leaderboard (2025)
 - 🚀 Contributor – OSCG'26
