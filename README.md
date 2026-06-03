@@ -11,8 +11,6 @@
 - 🌱 Exploring Open Source, Cloud Technologies & Modern Web Development
 - 🤝 Active in Open Source Programs including OSCG'26 and GSSoC'26
 
-<br clear="right"/>
-
 ---
 
 ## 🏆 Achievements
