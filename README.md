@@ -2,58 +2,94 @@
 <h3 align="center">AI & Data Science Student | Java Full Stack Learner</h3>
 
 <p align="center">
-  <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXBqbDZrYXA1Z3FydGpiN3ZjODY0Z2Zsa3BlMjV1aWg5bXNpZnprcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif"/>
+  <img alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXBqbDZrYXA1Z3FydGpiN3ZjODY0Z2Zsa3BlMjV1aWg5bXNpZnprcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif"/>
 </p>
 
+## 👩‍💻 About Me
 
-### 👩‍💻 About Me
-- 🎓 3rd Year AI & Data Science Student  
-- 💻 Learning Java, Spring Boot, SQL & React  
-- 🚀 Passionate about building Full Stack + AI projects  
-- 🌱 Always exploring new tools & technologies  
-- 🎯 Preparing for Full Stack Developer roles  
+- 🎓 3rd Year Artificial Intelligence & Data Science Student
+- 💻 Learning Java, Spring Boot, SQL, React, Flask & Streamlit
+- 🚀 Passionate about Full Stack Development and AI-powered Applications
+- 🌱 Exploring Open Source, Cloud Technologies & Modern Web Development
+- 🤝 Contributor in OSCG'26 and Participant in GSSoC'26
 
+---
 
-### 🏆 Achievements
-- 🥇 1st Rank, GDG On Campus – Study Jam Leaderboard (2025)  
-- 🌟 Active contributor in developer communities  
+## 🏆 Achievements
 
+- 🥇 1st Rank – GDG On Campus Study Jam Leaderboard (2025)
+- 🚀 Contributor – OSCG'26
+- 🌟 Participant – GSSoC'26
+- 💻 Active Contributor in Developer Communities
 
-### 🔧 Tech Stack
+---
 
-**Languages:**  
+## 🌟 Open Source Contributions
+
+- 🚀 Contributing to open-source projects through OSCG'26
+- 🌟 Participating in GSSoC'26
+- 🔧 Working with Git, GitHub, Issues & Pull Requests
+- 🤝 Collaborating with developers through community projects
+
+---
+
+## 🔧 Tech Stack
+
+### Languages
 <p>
-  <img height="50" src="https://skillicons.dev/icons?i=java,python,js" />
+  <img height="50" src="https://skillicons.dev/icons?i=java,python,javascript" />
 </p>
 
-**Frontend:**  
+### Frontend
 <p>
   <img height="50" src="https://skillicons.dev/icons?i=html,css,react,bootstrap" />
 </p>
 
-**Backend & Database:**  
+### Backend & Database
 <p>
-  <img height="50" src="https://skillicons.dev/icons?i=spring,mysql,mongodb,nodejs" />
+  <img height="50" src="https://skillicons.dev/icons?i=spring,flask,nodejs,mysql,mongodb" />
 </p>
 
-**Tools & Platforms:**  
+### Tools & Platforms
 <p>
-  <img height="50" src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
+  <img height="50" src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux" />
 </p>
 
+<p>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+</p>
 
+---
 
-### 🌱 Activity Graph
+## 🚀 Featured Project
+
+### AI-Powered Enhanced EHR Imaging & Documentation
+- Medical image enhancement using AI
+- Automated healthcare documentation generation
+- Built with FastAPI, Streamlit and AI technologies
+
+---
+
+## 🌱 Activity Graph
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mythreyee20&bg_color=0d1117&color=61dafb&line=ff69b4&point=ff69b4&area=true&hide_border=true" />
 </p>
 
+---
 
-### ✨ Connect With Me
+## ✨ Connect With Me
+
 <p align="center">
-  <a href="https://github.com/Mythreyee20"><img height="40" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/mythreyee20/"><img height="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/Mythreyee20">
+    <img height="40" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+
+  <a href="https://www.linkedin.com/in/mythreyee20/">
+    <img height="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </p>
 
+---
 
-⭐ **If you like my work, consider giving a star to my repositories!**
+⭐ Thanks for visiting my profile!
