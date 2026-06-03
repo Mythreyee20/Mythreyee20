@@ -13,7 +13,6 @@
 - 🌱 Exploring Open Source, Cloud Technologies & Modern Web Development
 - 🤝 Contributor in OSCG'26 and Participant in GSSoC'26
 
----
 
 ## 🏆 Achievements
 
@@ -22,7 +21,6 @@
 - 🌟 Participant – GSSoC'26
 - 💻 Active Contributor in Developer Communities
 
----
 
 ## 🌟 Open Source Contributions
 
@@ -31,7 +29,6 @@
 - 🔧 Working with Git, GitHub, Issues & Pull Requests
 - 🤝 Collaborating with developers through community projects
 
----
 
 ## 🔧 Tech Stack
 
@@ -59,7 +56,6 @@
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
----
 
 ## 🚀 Featured Project
 
@@ -68,15 +64,12 @@
 - Automated healthcare documentation generation
 - Built with FastAPI, Streamlit and AI technologies
 
----
 
 ## 🌱 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mythreyee20&bg_color=0d1117&color=61dafb&line=ff69b4&point=ff69b4&area=true&hide_border=true" />
 </p>
-
----
 
 ## ✨ Connect With Me
 
