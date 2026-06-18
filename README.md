@@ -9,23 +9,21 @@
 - 💻 Learning Java, Spring Boot, SQL, React, Flask & Streamlit
 - 🚀 Passionate about Full Stack Development and AI-powered Applications
 - 🌱 Exploring Open Source, Cloud Technologies & Modern Web Development
-- 🤝 Active in Open Source Programs including OSCG'26 and GSSoC'26
+- 🤝 Active in Open Source Programs including OSCG'26 ,GSSoC'26, SSoC'26
 
 ---
 
 ### 🏆 Achievements
 
 - 🥇 1st Rank – GDG On Campus Study Jam Leaderboard (2025)
-- 🚀 Contributor – OSCG'26
-- 🌟 Participant – GSSoC'26
+- 🚀 Contributor – OSCG'26, GSSoc'26, SSoC'26
 - 💻 Active Contributor in Developer Communities
 
 ---
 
 ## 🌟 Open Source Contributions
 
-- 🚀 Contributing to open-source projects through OSCG'26
-- 🌟 Participating in GSSoC'26
+- 🚀 Contributing to open-source projects through OSCG'26, GSSoC'26, SSoC'26
 - 🔧 Working with Git, GitHub, Issues & Pull Requests
 - 🤝 Collaborating with developers through community projects
 
