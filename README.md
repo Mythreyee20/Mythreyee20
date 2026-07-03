@@ -5,7 +5,7 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 3rd Year Artificial Intelligence & Data Science Student
+- 🎓 Final Year Artificial Intelligence & Data Science Student
 - 💻 Learning Java, Spring Boot, SQL, React, Flask & Streamlit
 - 🚀 Passionate about Full Stack Development and AI-powered Applications
 - 🌱 Exploring Open Source, Cloud Technologies & Modern Web Development
