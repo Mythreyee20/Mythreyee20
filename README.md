@@ -102,14 +102,6 @@
 
 ---
 
-## 🌱 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mythreyee20&bg_color=0d1117&color=61dafb&line=ff69b4&point=ff69b4&area=true&hide_border=true" />
-</p>
-
----
-
 ## ✨ Connect With Me
 
 <p align="center">
