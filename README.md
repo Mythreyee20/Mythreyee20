@@ -5,27 +5,33 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 Final Year Artificial Intelligence & Data Science Student
-- 💻 Learning Java, Spring Boot, SQL, React, Flask & Streamlit
-- 🚀 Passionate about Full Stack Development and AI-powered Applications
-- 🌱 Exploring Open Source, Cloud Technologies & Modern Web Development
-- 🤝 Active in Open Source Programs including OSCG'26 ,GSSoC'26, SSoC'26
+* 🎓 Final Year Artificial Intelligence & Data Science Student
+* 💻 Learning Java, Spring Boot, SQL, React, Node.js, Flask & Streamlit
+* 🚀 Passionate about Full Stack Development and AI-powered Applications
+* 🌱 Exploring Open Source, Cloud Technologies & Modern Web Development
+* 🤝 Active in Open Source Programs including OSCG'26, GSSoC'26 & SSoC'26
+* ✨ Completed Girls Who Yap Fellowship 2.0 by DoraDAO × Girls Who Yap
+* 🏗️ Participated in DoraHacks and built **TrustLens** with my team
 
 ---
 
 ### 🏆 Achievements
 
-- 🥇 1st Rank – GDG On Campus Study Jam Leaderboard (2025)
-- 🚀 Contributor – OSCG'26, GSSoc'26, SSoC'26
-- 💻 Active Contributor in Developer Communities
+* 🥇 1st Rank – GDG On Campus Study Jam Leaderboard (2025)
+* 🎓 Completed Girls Who Yap Fellowship 2.0 – DoraDAO × Girls Who Yap
+* 🚀 Contributor – OSCG'26, GSSoC'26 & SSoC'26
+* 🏗️ Participated in DoraHacks and built **TrustLens** with my team
+* 💻 Active Contributor in Developer Communities
 
 ---
 
-## 🌟 Open Source Contributions
+## 🌟 Open Source & Community
 
-- 🚀 Contributing to open-source projects through OSCG'26, GSSoC'26, SSoC'26
-- 🔧 Working with Git, GitHub, Issues & Pull Requests
-- 🤝 Collaborating with developers through community projects
+* 🚀 Contributing to open-source projects through OSCG'26, GSSoC'26 & SSoC'26
+* 🔧 Working with Git, GitHub, Issues & Pull Requests
+* 🤝 Collaborating with developers through community projects
+* 🌐 Participated in DoraHacks through the Girls Who Yap Fellowship
+* 💡 Exploring AI, Full Stack Development, Cloud Technologies & Open Source
 
 ---
 
@@ -46,7 +52,7 @@
 ### Backend & Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,flask,nodejs,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,flask,mysql,mongodb" />
 </p>
 
 ### Tools & Platforms
@@ -61,14 +67,20 @@
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 ### 🩺 AI-Powered Enhanced EHR Imaging & Documentation
 
-- Medical image enhancement using AI
-- Automated healthcare documentation generation
-- Built with FastAPI, Streamlit and AI technologies
-- Focused on healthcare accessibility and documentation
+* 🧠 Medical image enhancement using AI
+* 📄 Automated healthcare documentation generation
+* ⚡ Built with FastAPI, Streamlit and AI technologies
+* 🏥 Focused on healthcare accessibility and documentation
+
+### 🔐 TrustLens
+
+* 🤝 Team project developed during the Girls Who Yap Fellowship 2.0
+* 🌐 Participated through the DoraHacks ecosystem
+* 💡 Built as part of a collaborative learning and innovation experience
 
 ---
 
